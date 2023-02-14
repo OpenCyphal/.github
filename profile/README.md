@@ -1,8 +1,5 @@
 # [OpenCyphal](https://opencyphal.org)
 
-<!--suppress CheckImageSize, HtmlDeprecatedAttribute -->
-<img src="opencyphal_logo.svg" alt="OpenCyphal logo" width="128" align="right">
-
  [![Forum](https://img.shields.io/discourse/users.svg?server=https%3A%2F%2Fforum.opencyphal.org&color=1700b3)](https://forum.opencyphal.org) [![Specification](https://img.shields.io/badge/specification-1.0--beta-blue)](https://opencyphal.org/specification)
 
 What is Cyphal?
